@@ -8,7 +8,7 @@ body {
 
 .container {
   max-width: 600px;
-  margin: 20px auto;
+  margin: 40px auto;
   text-align: center;
 }
 
@@ -60,7 +60,7 @@ body {
   flex-direction: column;
   background-color: #f9f9f9;
   color: darkslategray;
-  padding: 10px 20px;
+  padding: 10px 20px 15px;
   margin: 10px;
   border-radius: 8px;
   width: 25%;
